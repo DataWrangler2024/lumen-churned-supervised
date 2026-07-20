@@ -61,9 +61,9 @@ Open and execute notebooks in order:
 | Metric | Value |
 |--------|-------|
 | Model | Ridge Regression (log-transformed target) |
-| MAE | X.X hours |
-| R² | 0.XX |
-| Top predictor | Last-month watch hours (corr = 0.XX) |
+| MAE | 3.39 hours |
+| R² | 0.782 |
+| Top predictor | Last-month watch hours (corr = 0.88) |
 
 ## What I'd Do Next
 
